@@ -2,4 +2,4 @@
 
 Latest CV:
 
-- [Download CV](./VanNguyenThi_CV.pdf)
+- [Download CV](./NguyenThiVan_CV.pdf)
